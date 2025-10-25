@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "Professional portfolio of Lavkush Varma, a passionate Shopify developer specializing in React JS, Next JS, and modern e-commerce solutions. Creating exceptional digital experiences with cutting-edge technology.",
   keywords:
     "Shopify Developer, React JS, Next JS, JavaScript, Liquid Templates, E-commerce, Web Development, Frontend Developer, Full Stack Developer",
-  authors: [{ name: "Lavkush Varma" }],
+  authors: [{ name: "Lavkush Varma" }], 
   openGraph: {
     title: "Lavkush Varma - Shopify Developer & React Specialist",
     description: "Professional portfolio showcasing modern e-commerce solutions and web development expertise.",
